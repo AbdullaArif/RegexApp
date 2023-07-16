@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\RgexApp\Regex\bin\Debug\net6.0\Regex.exe
+C:\Users\user\Desktop\RgexApp\Regex\bin\Debug\net6.0\Regex.deps.json
+C:\Users\user\Desktop\RgexApp\Regex\bin\Debug\net6.0\Regex.runtimeconfig.json
+C:\Users\user\Desktop\RgexApp\Regex\bin\Debug\net6.0\Regex.dll
+C:\Users\user\Desktop\RgexApp\Regex\bin\Debug\net6.0\Regex.pdb
+C:\Users\user\Desktop\RgexApp\Regex\obj\Debug\net6.0\Regex.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\RgexApp\Regex\obj\Debug\net6.0\Regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\RgexApp\Regex\obj\Debug\net6.0\Regex.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\RgexApp\Regex\obj\Debug\net6.0\Regex.AssemblyInfo.cs
+C:\Users\user\Desktop\RgexApp\Regex\obj\Debug\net6.0\Regex.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\RgexApp\Regex\obj\Debug\net6.0\Regex.dll
+C:\Users\user\Desktop\RgexApp\Regex\obj\Debug\net6.0\refint\Regex.dll
+C:\Users\user\Desktop\RgexApp\Regex\obj\Debug\net6.0\Regex.pdb
+C:\Users\user\Desktop\RgexApp\Regex\obj\Debug\net6.0\Regex.genruntimeconfig.cache
+C:\Users\user\Desktop\RgexApp\Regex\obj\Debug\net6.0\ref\Regex.dll
